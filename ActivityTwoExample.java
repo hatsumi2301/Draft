@@ -1,5 +1,5 @@
 public class ActivityTwoExample extends 
-AppCompatActity{
+Activity{
 
     @Override
     protected void onCreate (Bundle 

@@ -6,7 +6,7 @@ AppCompatActivity{
     private EditText edtTxtAlcohol;
 
     @Override
-    public void onCreate(Budle 
+    protected void onCreate(Budle 
 saveInstanceState){
         btnResult = (Button) 
 findViewById(R.id.btnResultId);

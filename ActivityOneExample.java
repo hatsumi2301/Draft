@@ -1,5 +1,5 @@
 public class ActivityOneExample extends 
-AppCompatActity{
+Activity{
 
     private Button playButton;
 
