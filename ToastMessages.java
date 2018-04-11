@@ -1,4 +1,4 @@
-public void GasolineOrAlcohol extends 
+public void ToastMessages extends 
 AppCompatActivity{
     private Button btnResult;
     private EditText edtTxtEnterMessage;
